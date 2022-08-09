@@ -7,7 +7,7 @@ bin-release/
 # Other files and folders
 .settings/
 .idea
-
+./ppcache/.idea
 # Executables
 *.swf
 *.air
